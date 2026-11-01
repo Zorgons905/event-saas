@@ -41,27 +41,17 @@ export default function Home() {
           </h1>
 
           <p className="mt-2 text-gray-600">
-            Contoh komponen formulir menggunakan React dan Next.js.
+            Komponen formulir dan input
           </p>
         </div>
 
         <div className="space-y-6 rounded-xl bg-white p-6 shadow-md">
 
-          <section>
-            <h2 className="mb-3 text-lg font-semibold">
-              1. Button
-            </h2>
-
-            <Button onClick={handleSubmit}>
-              Simpan Data
-            </Button>
-          </section>
-
           <hr />
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              2. Dropdown
+               Dropdown
             </h2>
 
             <Dropdown
@@ -82,7 +72,7 @@ export default function Home() {
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              3. Radio Button
+               Radio Button
             </h2>
 
             <div className="flex gap-6">
@@ -108,7 +98,7 @@ export default function Home() {
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              4. Checkbox
+               Checkbox
             </h2>
 
             <Checkbox
@@ -123,7 +113,7 @@ export default function Home() {
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              5. Slider
+               Slider
             </h2>
 
             <Slider
@@ -140,7 +130,7 @@ export default function Home() {
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              6. Text Input
+               Text Input
             </h2>
 
             <Input
@@ -156,7 +146,7 @@ export default function Home() {
 
           <section>
             <h2 className="mb-3 text-lg font-semibold">
-              7. Text Area
+               Text Area
             </h2>
 
             <TextArea
@@ -178,7 +168,7 @@ export default function Home() {
         </div>
 
         <p className="mt-6 text-center text-sm text-gray-500">
-          Base Components menggunakan React dan Next.js
+          Komponen formulir dan input
         </p>
 
       </div>

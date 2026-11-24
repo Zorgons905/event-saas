@@ -2,6 +2,8 @@
 
 # dependencies
 backend/node_modules/
+backend/dist/
+backend/src/generated/prisma/
 frontend/node_modules/
 
 /.pnp

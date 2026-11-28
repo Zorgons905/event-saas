@@ -1,2 +1,2 @@
 # Selamat datang di branch pandu
-# setting backend projeck capstone website pembuat undangan
+# setting backend project capstone website pembuat undangan
